@@ -1,0 +1,81 @@
+31 Oct 2017 15:57.51 [INFO ] LibraryLoader             - Loading external native CRF library
+31 Oct 2017 15:57.51 [INFO ] LibraryLoader             - Loading Wapiti native library...
+31 Oct 2017 15:57.51 [INFO ] LibraryLoader             - Library crfpp loaded
+31 Oct 2017 15:58.08 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/header/model.wapiti (size: 36094028)
+31 Oct 2017 15:59.44 [INFO ] Lexicon                   - Initiating dictionary
+31 Oct 2017 15:59.44 [INFO ] Lexicon                   - End of Initialization of dictionary
+31 Oct 2017 15:59.44 [INFO ] Lexicon                   - Initiating names
+31 Oct 2017 15:59.44 [INFO ] Lexicon                   - End of initialization of names
+31 Oct 2017 16:02.04 [INFO ] LibraryLoader             - Loading external native CRF library
+31 Oct 2017 16:02.04 [INFO ] LibraryLoader             - Loading Wapiti native library...
+31 Oct 2017 16:02.04 [INFO ] LibraryLoader             - Library crfpp loaded
+31 Oct 2017 16:02.06 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/header/model.wapiti (size: 36094028)
+31 Oct 2017 16:02.15 [INFO ] Lexicon                   - Initiating dictionary
+31 Oct 2017 16:02.15 [INFO ] Lexicon                   - End of Initialization of dictionary
+31 Oct 2017 16:02.15 [INFO ] Lexicon                   - Initiating names
+31 Oct 2017 16:02.15 [INFO ] Lexicon                   - End of initialization of names
+31 Oct 2017 16:02.16 [INFO ] Lexicon                   - Initiating country codes
+31 Oct 2017 16:02.16 [INFO ] Lexicon                   - End of initialization of country codes
+31 Oct 2017 16:03.49 [INFO ] LibraryLoader             - Loading external native CRF library
+31 Oct 2017 16:03.49 [INFO ] LibraryLoader             - Loading Wapiti native library...
+31 Oct 2017 16:03.49 [INFO ] LibraryLoader             - Library crfpp loaded
+31 Oct 2017 16:03.51 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/header/model.wapiti (size: 36094028)
+31 Oct 2017 16:07.06 [INFO ] Lexicon                   - Initiating dictionary
+31 Oct 2017 16:07.06 [INFO ] Lexicon                   - End of Initialization of dictionary
+31 Oct 2017 16:07.06 [INFO ] Lexicon                   - Initiating names
+31 Oct 2017 16:07.06 [INFO ] Lexicon                   - End of initialization of names
+31 Oct 2017 16:09.06 [INFO ] LibraryLoader             - Loading external native CRF library
+31 Oct 2017 16:09.06 [INFO ] LibraryLoader             - Loading Wapiti native library...
+31 Oct 2017 16:09.06 [INFO ] LibraryLoader             - Library crfpp loaded
+31 Oct 2017 16:09.08 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/header/model.wapiti (size: 36094028)
+31 Oct 2017 16:12.12 [INFO ] LibraryLoader             - Loading external native CRF library
+31 Oct 2017 16:12.12 [INFO ] LibraryLoader             - Loading Wapiti native library...
+31 Oct 2017 16:12.12 [INFO ] LibraryLoader             - Library crfpp loaded
+31 Oct 2017 16:12.13 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/header/model.wapiti (size: 36094028)
+31 Oct 2017 16:31.38 [INFO ] Lexicon                   - Initiating dictionary
+31 Oct 2017 16:31.38 [INFO ] Lexicon                   - End of Initialization of dictionary
+31 Oct 2017 16:31.38 [INFO ] Lexicon                   - Initiating names
+31 Oct 2017 16:31.38 [INFO ] Lexicon                   - End of initialization of names
+31 Oct 2017 16:31.39 [INFO ] Lexicon                   - Initiating country codes
+31 Oct 2017 16:31.39 [INFO ] Lexicon                   - End of initialization of country codes
+31 Oct 2017 16:31.40 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/name/header/model.wapiti (size: 2055704)
+31 Oct 2017 16:31.40 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/name/citation/model.wapiti (size: 339957)
+31 Oct 2017 16:35.06 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/affiliation-address/model.wapiti (size: 2646298)
+31 Oct 2017 16:35.51 [INFO ] LibraryLoader             - Loading external native CRF library
+31 Oct 2017 16:35.51 [INFO ] LibraryLoader             - Loading Wapiti native library...
+31 Oct 2017 16:35.51 [INFO ] LibraryLoader             - Library crfpp loaded
+31 Oct 2017 16:35.52 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/header/model.wapiti (size: 36094028)
+31 Oct 2017 16:44.28 [INFO ] Lexicon                   - Initiating dictionary
+31 Oct 2017 16:44.28 [INFO ] Lexicon                   - End of Initialization of dictionary
+31 Oct 2017 16:44.28 [INFO ] Lexicon                   - Initiating names
+31 Oct 2017 16:44.28 [INFO ] Lexicon                   - End of initialization of names
+31 Oct 2017 16:44.29 [INFO ] Lexicon                   - Initiating country codes
+31 Oct 2017 16:44.29 [INFO ] Lexicon                   - End of initialization of country codes
+31 Oct 2017 16:46.23 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/name/header/model.wapiti (size: 2055704)
+31 Oct 2017 16:46.23 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/name/citation/model.wapiti (size: 339957)
+31 Oct 2017 16:47.13 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/affiliation-address/model.wapiti (size: 2646298)
+31 Oct 2017 16:47.46 [INFO ] LibraryLoader             - Loading external native CRF library
+31 Oct 2017 16:47.46 [INFO ] LibraryLoader             - Loading Wapiti native library...
+31 Oct 2017 16:47.46 [INFO ] LibraryLoader             - Library crfpp loaded
+31 Oct 2017 16:47.47 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/header/model.wapiti (size: 36094028)
+31 Oct 2017 16:48.00 [INFO ] Lexicon                   - Initiating dictionary
+31 Oct 2017 16:48.00 [INFO ] Lexicon                   - End of Initialization of dictionary
+31 Oct 2017 16:48.00 [INFO ] Lexicon                   - Initiating names
+31 Oct 2017 16:48.00 [INFO ] Lexicon                   - End of initialization of names
+31 Oct 2017 16:48.00 [INFO ] Lexicon                   - Initiating country codes
+31 Oct 2017 16:48.00 [INFO ] Lexicon                   - End of initialization of country codes
+31 Oct 2017 16:48.02 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/name/header/model.wapiti (size: 2055704)
+31 Oct 2017 16:48.02 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/name/citation/model.wapiti (size: 339957)
+31 Oct 2017 16:53.20 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/affiliation-address/model.wapiti (size: 2646298)
+31 Oct 2017 17:11.47 [INFO ] LibraryLoader             - Loading external native CRF library
+31 Oct 2017 17:11.47 [INFO ] LibraryLoader             - Loading Wapiti native library...
+31 Oct 2017 17:11.47 [INFO ] LibraryLoader             - Library crfpp loaded
+31 Oct 2017 17:11.47 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/header/model.wapiti (size: 36094028)
+31 Oct 2017 17:13.27 [INFO ] Lexicon                   - Initiating dictionary
+31 Oct 2017 17:13.27 [INFO ] Lexicon                   - End of Initialization of dictionary
+31 Oct 2017 17:13.27 [INFO ] Lexicon                   - Initiating names
+31 Oct 2017 17:13.27 [INFO ] Lexicon                   - End of initialization of names
+31 Oct 2017 17:13.27 [INFO ] Lexicon                   - Initiating country codes
+31 Oct 2017 17:13.27 [INFO ] Lexicon                   - End of initialization of country codes
+31 Oct 2017 17:14.39 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/name/header/model.wapiti (size: 2055704)
+31 Oct 2017 17:14.39 [INFO ] WapitiModel               - Loading model: /Users/gpm1181/Documents/ws/ampp-grobid/grobid-grobid-parent-0.4.1/grobid-home/models/name/citation/model.wapiti (size: 339957)

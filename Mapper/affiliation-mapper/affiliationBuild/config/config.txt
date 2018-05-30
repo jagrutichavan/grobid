@@ -1,0 +1,8 @@
+[affiliationMapper]
+version = 0.0
+path_to_grobid = /Users/gpm1181/Documents/ws/grobid-output_
+path_to_aplus =  /Users/gpm1181/Documents/ws/a-plus
+out_path = /Users/gpm1181/Documents/ws/grobid-mapper-output
+lxml_out_path = /Users/gpm1181/Documents/ws/grobid-mapper-lxml
+pdf_path = /Users/gpm1181/Documents/ws/grobid-input
+pdf2xml_path = /Users/gpm1181/Documents/author-mapper3/authorBuild/pdf2xml/mac-64/pdftoxml

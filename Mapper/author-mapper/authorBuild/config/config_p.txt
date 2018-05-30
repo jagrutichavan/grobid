@@ -1,0 +1,8 @@
+[authorMapper]
+version = 0.1
+path_to_grobid = /Users/gpm1181/Documents/grobid-data/Corrected_data
+path_to_aplus =  /Users/gpm1181/Documents/grobid-data/Aplus_xml
+out_path =  /Users/gpm1181/Documents/grobid-data/grobid-mapper-output
+lxml_out_path = /Users/gpm1181/Documents/grobid-data/grobid-mapper-lxml
+pdf_path = /Users/gpm1181/Documents/grobid-data/Input_pdf
+pdf2xml_path = /Users/gpm1181/Documents/ws/ampp-grobid/Mapper/author-mapper/authorBuild/pdf2xml/mac-64/pdftoxml

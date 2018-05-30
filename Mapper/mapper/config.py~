@@ -1,0 +1,9 @@
+version = '4.5'
+
+
+path_to_grobid = "/home/aman/data/training/mapper3.0/Grobid_data/"
+path_to_aplus = "/home/aman/data/training/input_data_xml"
+out_path = "/home/aman/data/training/test_corrected_output"
+
+
+out_path = "/home/aman/data/training/corrected_output_4."
